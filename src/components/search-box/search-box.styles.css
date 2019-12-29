@@ -1,0 +1,15 @@
+.search {
+  -webkit-appearance: none;
+  border: none;
+  outline: auto rgba(111, 226, 236, 0.911);
+  padding: 0.03rem;
+  width: 200px;
+  line-height: 40px;
+  margin: 1rem;
+  cursor: pointer;
+}
+
+.search:hover {
+  outline: auto rgb(238, 189, 125);
+  background-color: rgb(246, 230, 208);
+}
