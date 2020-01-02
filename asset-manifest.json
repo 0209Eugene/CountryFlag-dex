@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CountryFlag-dex/static/css/main.4811a178.chunk.css",
+    "main.js": "/CountryFlag-dex/static/js/main.125780bb.chunk.js",
+    "main.js.map": "/CountryFlag-dex/static/js/main.125780bb.chunk.js.map",
+    "runtime-main.js": "/CountryFlag-dex/static/js/runtime-main.5350bac8.js",
+    "runtime-main.js.map": "/CountryFlag-dex/static/js/runtime-main.5350bac8.js.map",
+    "static/js/2.e03828f1.chunk.js": "/CountryFlag-dex/static/js/2.e03828f1.chunk.js",
+    "static/js/2.e03828f1.chunk.js.map": "/CountryFlag-dex/static/js/2.e03828f1.chunk.js.map",
+    "index.html": "/CountryFlag-dex/index.html",
+    "precache-manifest.6d2f954553bffc43ae32bc92df595cf6.js": "/CountryFlag-dex/precache-manifest.6d2f954553bffc43ae32bc92df595cf6.js",
+    "service-worker.js": "/CountryFlag-dex/service-worker.js",
+    "static/css/main.4811a178.chunk.css.map": "/CountryFlag-dex/static/css/main.4811a178.chunk.css.map",
+    "static/js/2.e03828f1.chunk.js.LICENSE": "/CountryFlag-dex/static/js/2.e03828f1.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5350bac8.js",
+    "static/js/2.e03828f1.chunk.js",
+    "static/css/main.4811a178.chunk.css",
+    "static/js/main.125780bb.chunk.js"
+  ]
+}
