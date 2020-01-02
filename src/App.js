@@ -32,8 +32,9 @@ class App extends React.Component {
 
 		return (
 			<div className='App'>
+				<h1>Country Flag-dex</h1>
 				<SearchBox
-					labelTitle = 'Name Search'
+					labelTitle = 'Search Name'
 					placeholder ='search country names'
 					handleChange = {e => this.setState({ searchField: e.target.value })}/>
 				<CardList countries = {filterdCountries} />

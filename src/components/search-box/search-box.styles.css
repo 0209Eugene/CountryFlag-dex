@@ -13,3 +13,8 @@
   outline: auto rgb(238, 189, 125);
   background-color: rgb(246, 230, 208);
 }
+
+label {
+  font-family: 'Kanit', sans-seri;
+  color: #fff;
+}
